@@ -5,8 +5,6 @@
 <h1 align="center">Hi 👋, I'm Saifur Rahman</h1>
 <h3 align="center">A dedicated frontend designer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saifurbinkobir&label=Profile%20views&color=0e75b6&style=flat" alt="saifurbinkobir" /> </p>
-
 - 🔭 I’m currently working as a **WordPress Developer in WeDominators**
 
 - 🌱 I’m currently learning **Node.js TypeScript React Next.js BetterAuth MongoDB Mongoose Express.js**
@@ -36,5 +34,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saifurbinkobir&show_icons=true&locale=en&layout=compact" alt="saifurbinkobir" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saifurbinkobir&show_icons=true&locale=en" alt="saifurbinkobir" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saifurbinkobir&" alt="saifurbinkobir" /></p>
